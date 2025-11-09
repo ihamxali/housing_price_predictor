@@ -1,14 +1,14 @@
-#Housing Price Predictor
+Housing Price Predictor
 A machine learning web application that predicts housing prices based on various property features using Random Forest Regression.
 
-##Overview
+Overview
 This project provides an interactive interface to estimate house prices by analyzing key property characteristics such as area, number of bedrooms, location preferences, and available amenities.
 Features
 
-Accurate Predictions: Uses Random Forest algorithm trained on real housing data
+Predictions: Uses Random Forest algorithm trained on keggle housing data
 User-Friendly Interface: Simple web-based input form for property details
 Instant Results: Get price predictions in seconds
-Multiple Features: Considers 12+ property attributes for comprehensive analysis
+Multiple Features: Considers multiple property attributes for analysis
 
 Technologies Used
 
@@ -33,11 +33,6 @@ Parking spaces
 Preferred area location
 Furnishing status
 
-Model Performance
-
-Mean Absolute Error: Provides accurate price estimates
-R² Score: Demonstrates strong predictive capability
-Training Split: 80-20 train-test split for robust validation
 
 Installation & Usage
 Prerequisites
